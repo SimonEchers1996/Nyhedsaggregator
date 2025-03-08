@@ -14,7 +14,7 @@ Panik ikke længere. Med nyhedsaggregatoren kan du nu søge på alle de sider du
 
 ## Fejl og mangler
 Ingen...
-\
+
 - Som det kan ses af billedet vil visse artikler ikke have en dato at tilknytte. Det kan fikses ved at rette i måden der filtreres i HTML-koden der indfanges, men det gider jeg ikke til at bøvle mere med. Det samme kan gælde for titler og links.
 
 Skulle du stå og være en superbruger, kan jeg nok overtales til at udglatte disse mangler.
